@@ -1,0 +1,52 @@
+section{
+  width:100%;
+  height:100vh;
+}
+#bg-1{
+  background-image: url('img/sweet-ice-cream-photography-399226-unsplash.jpg');
+  min-height: 100%;
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg-2{
+  background-image: url('img/biel-morro-259739-unsplash.jpg');
+  min-height: 100%;
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+  padding-top:20%;
+  color:#000;
+  font-size:3em;
+}
+.title2{
+  color:#fff;
+  padding-top:15%;
+  margin-bottom:60px;
+}
+.subtitle{
+  margin-bottom:50px;
+}
+.info{
+  background-color: #aec6cf;
+  padding:40px;
+}
+.std-pic{
+  width:500px;
+  height:400px;
+}
+.para{
+  padding:30px;
+}
+.address{
+  color:#fff;
+  font-size:1.4em;
+}
+footer{
+  background-color:#696969;
+  padding:20px;
+}

@@ -1,2 +1,3 @@
-# wedding-template
-Wedding template for #30Days30Sites
+# Wedding Template
+
+Wedding website template created for #30Days30Sites
